@@ -51,8 +51,8 @@ https://go.microsoft.com/fwlink/?LinkID=760868
 
 `sudo apt install flameshot`
 
-Remove default PrintScreen
-Create new custom shortcut and insert the command below
+- Remove default PrintScreen
+- Create new custom shortcut and insert the command below
 
 `flameshot gui`
 
