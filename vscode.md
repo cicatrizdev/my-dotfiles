@@ -1,9 +1,7 @@
-Configuration and Extensions for PHP Dev
+# ***Configuration and Extensions for PHP Dev***
 
-/////////////////////////////////////////
-
-Settings Json
-
+## **Settings Json**
+``````````````````````````
 {
     "php.validate.enable": true,
     "php.validate.run": "onType",
@@ -29,10 +27,9 @@ Settings Json
     "git.enableSmartCommit": true
     
 }
+``````````````````````````
 
-/////////////////////////////////////////
-
-Extensions
+## **Extensions**
 
 Auto Import
 Beautify
